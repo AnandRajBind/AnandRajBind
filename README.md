@@ -40,7 +40,3 @@
 
 ### ⚡ Fun Fact
 `console.log("I debug faster than I blink 😎");`
-
----
-
-🧠 *Let's build something awesome together!*
