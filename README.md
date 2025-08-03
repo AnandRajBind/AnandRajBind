@@ -30,9 +30,7 @@
 
 | <img src="https://github-readme-stats.vercel.app/api?username=AnandRajBind&show_icons=true&theme=radical" width="59%" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=AnandRajBind&theme=radical" width="59%" /> |
 |---|---|
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=500&lines=Hey+there,+I'm+Anand+Raj+Bind!;MERN+Stack+Developer;JavaScript+%7C+Next.js+%7C+Node.js;Dark+Theme+Fan+%7C+Problem+Solver" />
-</p>
+
 
 ---
 
