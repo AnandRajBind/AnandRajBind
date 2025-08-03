@@ -17,28 +17,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,tailwind,styledcomponents,redux,git,github,firebase,vercel,canva,postman" />
 </p>
 
----
-
-### 📂 Featured Projects
-
-Here are a few standout projects from my GitHub:
-
-- 🔗 [**Finance Visualizer App**](https://github.com/AnandRajBind/finance-visualizer)  
-  `Next.js • Recharts • MongoDB • shadcn/ui`  
-  → Personal finance tracking and budget visualization dashboard
-
-- 🔗 [**VS Code AI Chat Extension**](https://github.com/AnandRajBind/vscode-ai-extension)  
-  `React • OpenAI API • VS Code SDK`  
-  → A VS Code sidebar extension with file-aware AI code generation
-
-- 🔗 [**Courses API + React Dashboard (IIT Bombay Task)**](https://github.com/AnandRajBind/courses-api-app)  
-  `Spring Boot • Docker • MERN Stack`  
-  → Internship assignment with backend microservice and frontend integration
-
-> ✨ More on [github.com/AnandRajBind](https://github.com/AnandRajBind?tab=repositories)
-
----
-
 ### 📫 Connect With Me
 <p align="left">
   <a href="mailto:anandrajbind.official@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
