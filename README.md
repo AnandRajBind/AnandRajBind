@@ -39,5 +39,3 @@
 
 ---
 
-### ⚡ Fun Fact
-`console.log("I debug faster than I blink 😎");`
