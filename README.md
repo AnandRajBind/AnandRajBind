@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 - 🚀 MCA Student | BCA Graduate  
 - 🔥 Passionate about full stack development, Open Source, and building real-world projects  
-- 🌐 Portfolio Link: [portfolio-chi-inky-53.vercel.app](https://portfolio-chi-inky-53.vercel.app/)
+- 🌐 Portfolio Link:https://www.anandraj.me/
 
 ---
 
